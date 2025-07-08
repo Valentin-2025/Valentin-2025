@@ -87,7 +87,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат Middle»">](https://raw.githubusercontent.com/Valentin-2025/Valentin/refs/heads/main/certificate%20Middle.png)
+[<img src="/certificate Middle.png" width="280px" hspace="10px" alt="Сертификат Middle»">](https://raw.githubusercontent.com/Valentin-2025/Valentin/refs/heads/main/certificate%20Middle.png)
 [<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
 
 <br>
