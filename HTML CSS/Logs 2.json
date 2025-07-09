@@ -1,0 +1,73 @@
+{
+  "_index": "kafka-log",
+  "_type": "_doc",
+  "_id": "Q3VjBJcBKmKocnA370Oa",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "request_id": 6373,
+    "process.serviceName": "PokemonBattleKafkaProd",
+    "level": "error",
+    "message": "Покемон вам не принадлежит(ID 324415)(pokemons_ids)",
+    "context": {
+      "kafka_message": {
+        "trainer_id": 36237,
+        "pokemons_ids": [
+          324415,
+          324083
+        ],
+        "battle_result": "win"
+      }
+    },
+    "startTimeMillis": "2025-05-25T01:22:27.740192+03:00",
+    "trace": "kafka_app.py 199 строчка"
+  },
+  "fields": {
+    "process.serviceName.keyword": [
+      "PokemonBattleKafkaProd"
+    ],
+    "startTimeMillis": [
+      "2025-05-24T22:22:27.740Z"
+    ],
+    "level": [
+      "error"
+    ],
+    "context.kafka_message.pokemons_ids": [
+      324415,
+      324083
+    ],
+    "context.kafka_message.trainer_id.keyword": [
+      "36237"
+    ],
+    "message": [
+      "Покемон вам не принадлежит(ID 324415)(pokemons_ids)"
+    ],
+    "context.kafka_message.battle_result.keyword": [
+      "win"
+    ],
+    "context.kafka_message.trainer_id": [
+      "36237"
+    ],
+    "trace": [
+      "kafka_app.py 199 строчка"
+    ],
+    "context.kafka_message.battle_result": [
+      "win"
+    ],
+    "trace.keyword": [
+      "kafka_app.py 199 строчка"
+    ],
+    "level.keyword": [
+      "error"
+    ],
+    "process.serviceName": [
+      "PokemonBattleKafkaProd"
+    ],
+    "message.keyword": [
+      "Покемон вам не принадлежит(ID 324415)(pokemons_ids)"
+    ],
+    "request_id": [
+      6373
+    ]
+  }
+}

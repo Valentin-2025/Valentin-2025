@@ -1,0 +1,65 @@
+{
+  "_index": "kafka-log",
+  "_type": "_doc",
+  "_id": "nHVWBJcBKmKocnA3TD4z",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "request_id": 6371,
+    "process.serviceName": "PokemonBattleKafkaProd",
+    "level": "error",
+    "message": "Неверное значение, только win, lose или пустое значение(battle_result)",
+    "context": {
+      "kafka_message": {
+        "trainer_id": 36237,
+        "battle_result": "vin"
+      }
+    },
+    "startTimeMillis": "2025-05-25T01:07:33.939724+03:00",
+    "trace": "kafka_app.py 214 строчка"
+  },
+  "fields": {
+    "process.serviceName.keyword": [
+      "PokemonBattleKafkaProd"
+    ],
+    "startTimeMillis": [
+      "2025-05-24T22:07:33.939Z"
+    ],
+    "level": [
+      "error"
+    ],
+    "context.kafka_message.trainer_id.keyword": [
+      "36237"
+    ],
+    "message": [
+      "Неверное значение, только win, lose или пустое значение(battle_result)"
+    ],
+    "context.kafka_message.battle_result.keyword": [
+      "vin"
+    ],
+    "context.kafka_message.trainer_id": [
+      "36237"
+    ],
+    "trace": [
+      "kafka_app.py 214 строчка"
+    ],
+    "context.kafka_message.battle_result": [
+      "vin"
+    ],
+    "trace.keyword": [
+      "kafka_app.py 214 строчка"
+    ],
+    "level.keyword": [
+      "error"
+    ],
+    "process.serviceName": [
+      "PokemonBattleKafkaProd"
+    ],
+    "message.keyword": [
+      "Неверное значение, только win, lose или пустое значение(battle_result)"
+    ],
+    "request_id": [
+      6371
+    ]
+  }
+}
