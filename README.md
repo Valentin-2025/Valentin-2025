@@ -5,12 +5,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=10&card_width=320&theme=buefy&username=Valentin-2025)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&username=Valentin-2025)
-<a href="https://github.com/Valentin-2025/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Valentin-2025" />
-</a>
-<a href="https://github.com/Valentin-2025/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?layout=donut&langs_count=6&username=Valentin-2025&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
